@@ -1,1 +1,354 @@
 
+def A():
+    line1.append("         ")
+    line2.append("         ")
+    line3.append("   /\    ")
+    line4.append("  /__\   ")
+    line5.append(" /    \  ")
+    line6.append("/      \ ")
+  
+def B():
+    line1.append("      ")
+    line2.append(" ___  ")
+    line3.append("|   \ ")
+    line4.append("|___/ ")
+    line5.append("|   \ ")
+    line6.append("|___/ ")
+
+def C():
+    line1.append("       ")
+    line2.append("  ___  ")
+    line3.append(" /   \ ")
+    line4.append("|      ")
+    line5.append("|      ")
+    line6.append(" \___/ ")
+def D():
+    line1.append("       ")
+    line2.append(" ___   ")
+    line3.append("|   \  ")
+    line4.append("|    | ")
+    line5.append("|    | ")
+    line6.append("|___/  ")
+def E():
+    line1.append("      ")
+    line2.append(" ____ ")
+    line3.append("|     ")
+    line4.append("|__   ")
+    line5.append("|     ")
+    line6.append("|____ ")
+def F():
+    line1.append("      ")
+    line2.append(" ____ ")
+    line3.append("|     ")
+    line4.append("|__   ")
+    line5.append("|     ")
+    line6.append("|     ")
+def G():
+    line1.append("        ")
+    line2.append("  ___   ")
+    line3.append(" /   \  ")
+    line4.append("|    __ ")
+    line5.append("|     | ")
+    line6.append(" \___/  ")
+def H():
+    line1.append("       ")
+    line2.append("       ")
+    line3.append("|    | ")
+    line4.append("|____| ")
+    line5.append("|    | ")
+    line6.append("|    | ")
+def I():
+    line1.append("        ")
+    line2.append("___ ___ ")
+    line3.append("   |    ")
+    line4.append("   |    ")
+    line5.append("   |    ")
+    line6.append("___|___ ")
+def J():
+    line1.append("        ")
+    line2.append("_______ ")
+    line3.append("   |    ")
+    line4.append("   |    ")
+    line5.append("   |    ")
+    line6.append("\__/    ")
+def K():
+    line1.append("      ")
+    line2.append("      ")
+    line3.append("|   / ")
+    line4.append("|__/  ")
+    line5.append("|  \  ")
+    line6.append("|   \ ")
+def L():
+    line1.append("      ")
+    line2.append("      ")
+    line3.append("|     ")
+    line4.append("|     ")
+    line5.append("|     ")
+    line6.append("|____ ")
+def M():
+    line1.append("           ")
+    line2.append("  _    _   ")
+    line3.append(" / \  / \  ")
+    line4.append("|   \/   | ")
+    line5.append("|        | ")
+    line6.append("|        | ")
+def N():
+    line1.append("       ")  
+    line2.append("       ")
+    line3.append("|\   | ")
+    line4.append("| \  | ")
+    line5.append("|  \ | ")
+    line6.append("|   \| ")
+def O():
+    line1.append("       ")
+    line2.append("  __   ")
+    line3.append(" /  \  ")
+    line4.append("|    | ")
+    line5.append("|    | ")
+    line6.append(" \__/  ")
+def P():
+    line1.append("      ")
+    line2.append(" ___  ")
+    line3.append("|   \ ")
+    line4.append("|___/ ")
+    line5.append("|     ")
+    line6.append("|     ")
+def Q():
+    line1.append("       ")
+    line2.append("  __   ")
+    line3.append(" /  \  ")
+    line4.append("|    | ")
+    line5.append("|    | ")
+    line6.append(" \__\  ")
+def R():
+    line1.append("      ")
+    line2.append(" ___  ")
+    line3.append("|   \ ")
+    line4.append("|___/ ")
+    line5.append("|  \  ")
+    line6.append("|   \ ")
+def S():
+    line1.append("      ")
+    line2.append(" ___  ")
+    line3.append("/   \ ")
+    line4.append("\___  ")
+    line5.append("    \ ")
+    line6.append("\___/ ")
+def T():
+    line1.append("        ")
+    line2.append("_______ ")
+    line3.append("   |    ")
+    line4.append("   |    ")
+    line5.append("   |    ")
+    line6.append("   |    ")
+def U():
+    line1.append("       ")
+    line2.append("       ")
+    line3.append("|    | ")
+    line4.append("|    | ")
+    line5.append("|    | ")
+    line6.append(" \__/  ")
+def V():
+    line1.append("         ")
+    line2.append("         ")
+    line3.append("\      / ")
+    line4.append(" \    /  ")
+    line5.append("  \  /   ")
+    line6.append("   \/    ")
+def W():
+    line1.append("           ")
+    line2.append("           ")
+    line3.append("|        | ")
+    line4.append("|        | ")
+    line5.append("\   /\   / ")
+    line6.append(" \_/  \_/  ")
+def X():
+    line1.append("     ")
+    line2.append("     ")
+    line3.append("\  / ")
+    line4.append(" \/  ")
+    line5.append(" /\  ")
+    line6.append("/  \ ")
+def Y():
+    line1.append("      ")
+    line2.append("      ")
+    line3.append("\   / ")
+    line4.append(" \_/  ")
+    line5.append("  |   ")
+    line6.append("  |   ")
+def Z():
+    line1.append("     ")
+    line2.append("___  ")
+    line3.append("   / ")
+    line4.append("  /  ")
+    line5.append(" /   ")
+    line6.append("/___ ")
+def Space():
+    line1.append("     ")
+    line2.append("     ")
+    line3.append("     ")
+    line4.append("     ")
+    line5.append("     ")
+    line6.append("     ")
+def Collen():
+    line1.append("    ")
+    line2.append(" _  ")
+    line3.append("|_| ")
+    line4.append("    ")
+    line5.append(" _  ")
+    line6.append("|_| ")
+def Period():
+    line1.append("     ")
+    line2.append("     ")
+    line3.append("     ")
+    line4.append("     ")
+    line5.append(" _   ")
+    line6.append("|_|  ")
+def Bslash():   
+    line1.append("     ") 
+    line2.append("     ")
+    line3.append("\    ")
+    line4.append(" \   ")
+    line5.append("  \  ")
+    line6.append("   \ ")
+def Fslash():
+    line1.append("     ")
+    line2.append("     ")
+    line3.append("   / ")
+    line4.append("  /  ")
+    line5.append(" /   ")
+    line6.append("/    ")
+def Bang():
+    line1.append(" ___  ")
+    line2.append("|   | ")
+    line3.append("\   / ")
+    line4.append(" \_/  ")
+    line5.append("  _   ")
+    line6.append(" |_|  ")
+def Qestion_mark():
+    line1.append(" ____  ")
+    line2.append("|    | ")
+    line3.append("   __/ ")
+    line4.append("  |    ")
+    line5.append("  _    ")
+    line6.append(" |_|   ")
+def Greater_than():
+    line1.append("  ")
+    line2.append("  ")
+    line3.append("  ")
+    line4.append("\ ")
+    line5.append("/ ")
+    line6.append("  ")
+def Less_than():
+    line1.append("  ")
+    line2.append("  ")
+    line3.append("  ")
+    line4.append("/ ")
+    line5.append("\ ")
+    line6.append("  ")
+def Lparth():
+    line1.append("   ")
+    line2.append("   ")
+    line3.append("\  ")
+    line4.append(" | ")
+    line5.append(" | ")
+    line6.append("/  ")
+def Rparth():
+    line1.append("   ")
+    line2.append("   ")
+    line3.append(" / ")
+    line4.append("|  ")
+    line5.append("|  ")
+    line6.append(" \ ")
+def aptrfy():
+    line1.append("   ")
+    line2.append("   ")
+    line3.append(" | ")
+    line4.append("   ")
+    line5.append("   ")
+    line6.append("   ")
+def underscore():
+    line1.append("       ")
+    line2.append("       ")
+    line3.append("       ")
+    line4.append("       ")
+    line5.append("       ")
+    line6.append("______ ")
+
+
+def yell(ircmsg):
+    start_letter=ircmsg.find("yell")+4
+    global line1
+    global line2
+    global line3
+    global line4
+    global line5
+    global line6
+    line1=[]
+    line2=[]
+    line3=[]
+    line4=[]
+    line5=[]
+    line6=[]
+
+    for letternum in range(1,len(ircmsg)-(ircmsg.find("yell")+4)):
+        letcnt=start_letter+letternum
+        if ircmsg[letcnt]=="a" or ircmsg[letcnt]=="A": A()
+        elif ircmsg[letcnt]=="b" or ircmsg[letcnt]=="B": B()
+        elif ircmsg[letcnt]=="c" or ircmsg[letcnt]=="C": C()
+        elif ircmsg[letcnt]=="d" or ircmsg[letcnt]=="D": D()
+        elif ircmsg[letcnt]=="e" or ircmsg[letcnt]=="E": E()
+        elif ircmsg[letcnt]=="f" or ircmsg[letcnt]=="F": F()
+        elif ircmsg[letcnt]=="g" or ircmsg[letcnt]=="G": G()
+        elif ircmsg[letcnt]=="h" or ircmsg[letcnt]=="H": H()
+        elif ircmsg[letcnt]=="i" or ircmsg[letcnt]=="I": I()
+        elif ircmsg[letcnt]=="j" or ircmsg[letcnt]=="J": J()
+        elif ircmsg[letcnt]=="k" or ircmsg[letcnt]=="K": K()
+        elif ircmsg[letcnt]=="l" or ircmsg[letcnt]=="L": L()
+        elif ircmsg[letcnt]=="m" or ircmsg[letcnt]=="M": M()
+        elif ircmsg[letcnt]=="n" or ircmsg[letcnt]=="N": N()
+        elif ircmsg[letcnt]=="o" or ircmsg[letcnt]=="O": O()
+        elif ircmsg[letcnt]=="p" or ircmsg[letcnt]=="P": P()
+        elif ircmsg[letcnt]=="q" or ircmsg[letcnt]=="Q": Q()
+        elif ircmsg[letcnt]=="r" or ircmsg[letcnt]=="R": R()
+        elif ircmsg[letcnt]=="s" or ircmsg[letcnt]=="S": S()
+        elif ircmsg[letcnt]=="t" or ircmsg[letcnt]=="T": T()
+        elif ircmsg[letcnt]=="u" or ircmsg[letcnt]=="U": U()
+        elif ircmsg[letcnt]=="v" or ircmsg[letcnt]=="V": V()
+        elif ircmsg[letcnt]=="w" or ircmsg[letcnt]=="W": W()
+        elif ircmsg[letcnt]=="x" or ircmsg[letcnt]=="X": X()
+        elif ircmsg[letcnt]=="y" or ircmsg[letcnt]=="Y": Y()
+        elif ircmsg[letcnt]=="z" or ircmsg[letcnt]=="Z": Z()
+        elif ircmsg[letcnt]=="'": aptrfy()
+        elif ircmsg[letcnt]=="(": Rparth()
+        elif ircmsg[letcnt]==")": Lparth()
+        elif ircmsg[letcnt]=="_": underscore()
+        elif ircmsg[letcnt]=="<": Less_than()
+        elif ircmsg[letcnt]==">": Greater_than()
+        elif ircmsg[letcnt]==":": Collen()
+        elif ircmsg[letcnt]=="/": Fslash()
+        elif ircmsg[letcnt]=="?": Qestion_mark()
+        elif ircmsg[letcnt]=="!": Bang()
+        elif ircmsg[letcnt]==".": Period()
+        elif ircmsg[letcnt]==" ":
+            
+            if len(''.join(line1))>90:
+                sendmsg(channel ,''.join(line1))
+                sendmsg(channel ,''.join(line2))
+                sendmsg(channel ,''.join(line3))
+                sendmsg(channel ,''.join(line4))
+                sendmsg(channel ,''.join(line5))
+                sendmsg(channel ,''.join(line6))
+                line1=[]
+                line2=[]
+                line3=[]
+                line4=[]
+                line5=[]
+                line6=[]
+            else:
+                Space()
+                    
+        else: Bslash()
+    message=[''.join(line1),''.join(line1),''.join(line1),''.join(line1),''.join(line1),''.join(line1)]
+    return message
+
